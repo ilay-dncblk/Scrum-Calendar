@@ -1,1 +1,12 @@
-{"admin": {"password": "admin", "tckno": "1", "name": "admin", "surname": "admin", "email": "admin@admin.admin", "phone": "1", "address": "admin", "user_type": "admin"}}
+{
+    "admin": {
+        "password": "admin",
+        "tckno": "1",
+        "name": "admin",
+        "surname": "admin",
+        "email": "admin@admin.admin",
+        "phone": "1",
+        "address": "admin",
+        "user_type": "admin"
+    }
+}

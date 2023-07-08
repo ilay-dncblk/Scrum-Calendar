@@ -585,7 +585,7 @@ class signUpPage(tk.Tk):
 class signInPage(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.geometry("400x400")
+        self.geometry("400x250")
         self.title("Sign In")
 
         self.username_label = tk.Label(self, text="Username:", font=("Arial", 14))
